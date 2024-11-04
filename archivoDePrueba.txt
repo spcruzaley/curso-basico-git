@@ -1,5 +1,7 @@
 Agregamos algunos cambios que solo se veran reflejados en este branch y no en master hasta no hacer un merge.
 
-Estos cambios son agregados desde el branch 3
+Estos cambios son agregados el branch 3
 
 Contenido adicional agregado en el branch 2
+
+Cambios agregados para hacer merge por medio de un Pull Request
